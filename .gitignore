@@ -1,0 +1,17 @@
+node_modules
+package-lock.json
+package.json
+contracts
+migrations
+test
+truffle-config.js
+contract_parameters.json
+.env
+images/*
+!images/template.json
+!images/template.png
+build
+upload_to_arweave.js
+upload_metadata_to_arweave.js
+upload_to_arweave.js
+mint.js

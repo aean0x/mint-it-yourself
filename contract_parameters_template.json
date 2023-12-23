@@ -1,0 +1,9 @@
+{
+    "to_address": "0xYourEthereumAddress",
+    "network_choice": "sepolia",
+    "contract_name": "YourContractName",
+    "token_name": "YourTokenName",
+    "token_symbol": "YourTokenSymbol",
+    "creator_earnings": "CreatorEarningsPercentage",
+    "gas_price": "GasPriceInWei"
+}

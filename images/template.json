@@ -1,0 +1,15 @@
+{
+    "name": "NFT 1",
+    "description": "A unique digital collectible asset.",
+    "image": "https://arweave.net/0pXh-hTS17byIo43gHXgjTEU9pf0l0Ldvj2Hahpvf0E",
+    "attributes": [
+        {
+            "trait_type": "Clothes",
+            "value": "Plastic"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Open"
+        }
+    ]
+}
